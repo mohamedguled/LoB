@@ -1,5 +1,5 @@
 {
-    "items": [
+    "ArticleOne": [
         { "id": 1, "type":"Guide", "title": "How to Build a Champion Pool", "name": "", "description": "", "coverimage": "", "cardimage": ""  }
     ]
 }
